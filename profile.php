@@ -95,6 +95,9 @@
                         </div>
                     </div>
                 </div>
+                 <div class="d-flex justify-content-center">
+                    <button type="button" class="btn"><a href="index.php">Back to form </a></button>
+                </div>
             </div>
 
         </div>
@@ -106,4 +109,5 @@
 </footer>
 
 </body>
+
 </html>
